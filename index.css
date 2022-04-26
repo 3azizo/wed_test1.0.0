@@ -1,0 +1,22 @@
+body {
+    background-image: url(PicsArt_22-02-05_19-20-33-457.jpg);
+    background-size: cover; 
+    background-color: #66bfbf;
+
+}
+hr{
+    border-style: none;
+    border-top-style:dotted;        
+    border-width: 5px;
+    color: rgb(124, 229, 255);
+    width: 10%;
+}
+h1{
+    color:#46ffff ;
+   font-size: 100px;
+}
+div{
+    
+    color:#6ad5ff ;
+    font-style: initial ;
+}
